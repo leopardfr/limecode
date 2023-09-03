@@ -1,0 +1,15 @@
+Module Variable: 
+
+ExploitAPI module = new ExploitAPI();
+
+--------------
+
+Attach:
+
+module.LaunchExploit();
+
+--------------
+
+Execute:
+
+module.SendLuaScript(fastColoredTextBox1.Text);
